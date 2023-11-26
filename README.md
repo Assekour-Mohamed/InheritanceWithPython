@@ -1,2 +1,2 @@
 # Vector2DAnd3D
-vector 3d and 2d classes usging python
+vector3d inherits vector2d class a usging python
